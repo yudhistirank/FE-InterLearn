@@ -1,5 +1,5 @@
 import Navbar from '../../../components/private/shared/Navbar';
-import InProgress from '../../../components/private/mycourses/inprogressnone';
+import InProgress from '../../../components/private/mycourses/Inprogress';
 import Footer from '../../../components/public/shared/Footer';
 
 const Inprogress = () => {
